@@ -67,5 +67,6 @@ The accuracy of the two layer model is 92% ( 0.9253) . Inorder to increase the a
 ![accuracy](https://user-images.githubusercontent.com/59074144/117343060-8cdac200-aec1-11eb-8b5f-f7f67b3843fc.png)
  
 The model is saved and is loaded for recognising.
- 
+
+##
 ### NOTE: USE ONLY GRAYSCALE IMAGE FOR RECOGNITION.
