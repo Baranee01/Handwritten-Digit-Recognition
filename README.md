@@ -53,4 +53,4 @@ Program has been separated into two divisions:
 - Recognising the digit.
 
 ##
-### NOTE: USE ONLY GRAYSCALE IMAGE FOR RECOGNITION.
+### NOTE: Use Only Grayscale Image for Recognition.
